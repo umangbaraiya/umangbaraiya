@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Udit <img src="Media\waving-hand.gif" alt="hi" width="35px">
 
 <!--
 **umangbaraiya/umangbaraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
