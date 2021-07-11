@@ -2,6 +2,8 @@
 
 ## Hi there, I'm Umang <img src="Media\waving-hand.gif" alt="hi" width="30px">
 
+### I'm Business Analyst, Data Analyst, Django Developer and Python expert.
+
 <!--
 **umangbaraiya/umangbaraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
