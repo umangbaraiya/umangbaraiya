@@ -5,6 +5,8 @@
 
 ### I'm Business Analyst📈, Data Analyst📊, Django Developer and Python🐍 expert.
 
+<img align="right" alt="GIF" src="https://github.com/umangbaraiya/umangbaraiya/blob/main/Media/hi-animation.gif?raw=true" width="500" height="340" />
+
 <!--
 **umangbaraiya/umangbaraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
