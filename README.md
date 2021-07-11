@@ -1,5 +1,5 @@
 ### Hi there, I'm Umang <img src="Media\waving-hand.gif" alt="hi" width="35px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=1DA1F2&lines=Welcome+to+Umang's+GitHub+page...!)](https://git.io/typing-svg)
 ##
 
 <!--
