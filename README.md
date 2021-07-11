@@ -1,6 +1,6 @@
-### Hi there, I'm Umang <img src="Media\waving-hand.gif" alt="hi" width="35px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=1DA1F2&lines=Welcome+to+Umang's+GitHub+page...!)](https://git.io/typing-svg)
-##
+
+## Hi there, I'm Umang <img src="Media\waving-hand.gif" alt="hi" width="35px">
 
 <!--
 **umangbaraiya/umangbaraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
