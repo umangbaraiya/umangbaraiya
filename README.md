@@ -17,11 +17,17 @@
 - 🥅 2021 Goals: Stand out in analyst community and Build a strong profile. 
 - ⚡ Fun fact: Apart from digging the data; I love to explore cosmology & philosophy
 
+<br>
+<br>
+<br>
+<br>
+<hr>
+
 ### :mailbox: Reach me out!
 
 <p align="left">
-<a href="https://twitter.com/umangbaraiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umangbaraiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umang-baraiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-baraiya" height="30" width="40" /></a>
+<a href="https://twitter.com/umangbaraiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umangbaraiya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10975941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10975941" height="30" width="40" /></a>
 </p>
 
