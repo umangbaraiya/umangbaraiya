@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other data nerds
 - 🥅 2021 Goals: Stand out in analyst community and Build a strong profile. 
-- ⚡ Fun fact: Apart from digging the data; I love to explore cosmology & philosophy
+- ⚡ Fun fact: Apart from digging the data; I love to explore cosmology & Psychology
 
 <br>
 <br>
