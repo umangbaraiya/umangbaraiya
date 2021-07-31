@@ -5,7 +5,6 @@
 
 ### I'm Business Analyst📈, Data Analyst📊, Django Developer and Python🐍 expert.
 
-**I'm a data analytics & business intelligence consultant at PwC and my passion resonates with my profession too. I enjoy exploring data to get insights and create an impactful story out of it.**
 
 <img align="right" alt="GIF" src="https://github.com/umangbaraiya/umangbaraiya/blob/main/Media/Hi.png?raw=true" width="400" height="320" />
 
