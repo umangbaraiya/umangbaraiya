@@ -54,7 +54,7 @@
   
 <a href="https://twitter.com/umangbaraiya" target="blank"><img align="left" alt="Twitter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/twitter-tile.svg" /></a>
   
-<a href="mailto:islempenywis@gmail.com" target="blank"><img align="left" alt="Mail" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/gmail-icon.svg" /></a>
+<a href="mailto:jackmax248@gmail.com" target="blank"><img align="left" alt="Mail" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/gmail-icon.svg" /></a>
   
 <a href="https://stackoverflow.com/users/10975941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10975941" height="30" width="30" /></a>
   
