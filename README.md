@@ -27,13 +27,17 @@
 
 ### Tools and Technologies
 
-<img align="left" alt="python" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/python-icon.svg" />
 <img align="left" alt="SQL" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/sql-server-icon-png-11368.png" />
 <img align="left" alt="SQLserver" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/microsoft-sql-server.svg" />
 <img align="left" alt="SQLiter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/sqlite-icon.svg" />
-<img align="left" alt="Scikit-learn" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Scikit_learn_logo_small.svg" />
+<img align="left" alt="python" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/python-icon.svg" />
+<img align="left" alt="Numpy" height="30px" width="60px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/numpylogo.svg" />
+<img align="left" alt="Pandas" height="30px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="MatplotLib" height="30px" width="60px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/MatplotLib.svg" />
+<img align="left" alt="Scikit-learn" height="30px" width="50px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Scikit_learn_logo_small.svg" />
 <img align="left" alt="OpenCV" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/opencv-icon.svg" />
 <img align="left" alt="Django" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/djangoproject-icon.svg" />
+<img align="left" alt="PowerBI" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/microsoft_powerbi-icon.svg" />
 <img align="left" alt="C" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/C_Programming_Language.svg" />
 <img align="left" alt="HTML" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/w3_html5-icon.svg" />
 <img align="left" alt="css" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/CSS3_logo_and_wordmark.svg" />
