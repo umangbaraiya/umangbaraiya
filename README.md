@@ -32,6 +32,19 @@
 <img align="left" alt="SQLserver" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/microsoft-sql-server.svg" />
 <img align="left" alt="SQLiter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/sqlite-icon.svg" />
 <img align="left" alt="Scikit-learn" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Scikit_learn_logo_small.svg" />
+<img align="left" alt="OpenCV" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/opencv-icon.svg" />
+<img align="left" alt="Django" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/djangoproject-icon.svg" />
+<img align="left" alt="C" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/C_Programming_Language.svg" />
+<img align="left" alt="HTML" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/w3_html5-icon.svg" />
+<img align="left" alt="css" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="JavaScript" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Unofficial_JavaScript_logo_2.svg" />
+<img align="left" alt="Selenium" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/selenium-logo.svg" />
+<img align="left" alt="Git" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Git_icon.svg" />
+<img align="left" alt="GitHub" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Octicons-mark-github.svg" />
+<img align="left" alt="GitHub" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/visual-studio-code-1.svg" />
+
+
+
 
 
 
