@@ -27,9 +27,9 @@
 
 ### Tools and technologies
 
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="python" height="30px" width="30px" src="https://github.com/umangbaraiya/umangbaraiya/blob/main/Icons/python-icon.svg" />
+<img align="left" alt="SQL" height="30px" width="30px" src="https://github.com/umangbaraiya/umangbaraiya/blob/main/Icons/sql-server-icon-png-11368.png" />
+<img align="left" alt="SQLserver" height="30px" width="30px" src="https://github.com/umangbaraiya/umangbaraiya/blob/main/Icons/microsoft-sql-server.svg" />
 <img align="left" alt="SQLite" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
