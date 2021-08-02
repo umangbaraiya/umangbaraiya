@@ -27,17 +27,18 @@
 
 ### Tools and Technologies
 
+
 <img align="left" alt="SQL" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/sql-server-icon-png-11368.png" />
 <img align="left" alt="SQLserver" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/microsoft-sql-server.svg" />
 <img align="left" alt="SQLiter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/sqlite-icon.svg" />
 <img align="left" alt="python" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/python-icon.svg" />
 <img align="left" alt="Numpy" height="30px" width="60px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/numpylogo.svg" />
-<img align="left" alt="Pandas" height="30px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="Pandas" height="30px" width="60px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Pandas_logo.svg" />
 <img align="left" alt="MatplotLib" height="30px" width="60px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/MatplotLib.svg" />
 <img align="left" alt="Scikit-learn" height="30px" width="50px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Scikit_learn_logo_small.svg" />
 <img align="left" alt="OpenCV" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/opencv-icon.svg" />
 <img align="left" alt="Django" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/djangoproject-icon.svg" />
-<img align="left" alt="PowerBI" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/microsoft_powerbi-icon.svg" />
+<img align="left" alt="PowerBI" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/New_Power_BI_Logo.svg" />
 <img align="left" alt="C" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/C_Programming_Language.svg" />
 <img align="left" alt="HTML" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/w3_html5-icon.svg" />
 <img align="left" alt="css" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/CSS3_logo_and_wordmark.svg" />
@@ -45,8 +46,9 @@
 <img align="left" alt="Selenium" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/selenium-logo.svg" />
 <img align="left" alt="Git" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Git_icon.svg" />
 <img align="left" alt="GitHub" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/Octicons-mark-github.svg" />
-<img align="left" alt="GitHub" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/visual-studio-code-1.svg" />
+<img align="left" alt="VsCode" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/visual-studio-code-1.svg" />
 
+<br>
 <br>
 
 ##
@@ -54,13 +56,12 @@
 ### :mailbox: Reach me out!
 
 <p align="left">
+  
 <a href="https://linkedin.com/in/umang-baraiya" target="blank"><img align="left" alt="Linkedin" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/linkedin-icon.svg" /></a>
   
 <a href="https://twitter.com/umangbaraiya" target="blank"><img align="left" alt="Twitter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/twitter-tile.svg" /></a>
   
 <a href="mailto:jackmax248@gmail.com" target="blank"><img align="left" alt="Mail" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/gmail-icon.svg" /></a>
-  
-<a href="https://stackoverflow.com/users/10975941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10975941" height="30" width="30" /></a>
   
 </p>
 
