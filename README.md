@@ -57,7 +57,7 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/umang-baraiya" target="blank"><img align="left" alt="Linkedin" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/linkedin-icon.svg" /></a>
+<a href="https://linkedin.com/in/umangbaraiya" target="blank"><img align="left" alt="Linkedin" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/linkedin-icon.svg" /></a>
   
 <a href="https://twitter.com/umangbaraiya" target="blank"><img align="left" alt="Twitter" height="30px" width="30px" src="https://raw.githubusercontent.com/umangbaraiya/umangbaraiya/main/Icons/twitter-tile.svg" /></a>
   
